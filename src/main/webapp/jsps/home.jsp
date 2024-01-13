@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Raja's Technologies Pvt Ltd. Ph No: +91-8971975103 ,Bengaluru,Karnataka.</h1>
-<h1 align="center"> Cloud Technologies - Training center for DevOps, AWS Solution Architect and consulting services in Bangalore India, working on Real Time scenarios</h1>
+<h1 align="center"> Training center for DevOps, AWS Solution Architect and consulting services in Bangalore India, providing capstone projects with realtime rscenarios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
